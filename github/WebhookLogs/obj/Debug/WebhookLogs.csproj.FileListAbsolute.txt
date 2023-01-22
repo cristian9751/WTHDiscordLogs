@@ -1,0 +1,161 @@
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\obj\Debug\WebhookLogs.csproj.AssemblyReference.cache
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\obj\Debug\WebhookLogs.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\WebhookLogs.dll.config
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\WebhookLogs.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\WebhookLogs.pdb
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\0Harmony.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\CommandSystem.Core.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\Exiled.API.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\Exiled.CreditTags.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\Exiled.CustomItems.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\Exiled.CustomRoles.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\Exiled.Events.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\Exiled.Permissions.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\Exiled.Updater.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\LiteDB.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\Mirror.Components.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\Mirror.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\NorthwoodLib.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\PluginAPI.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\RespawnTimer.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\ScpUtils.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\SemanticVersioning.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\YamlDotNet.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\System.Buffers.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\Unity.Timeline.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\obj\Debug\WebhookLogs.csproj.CopyComplete
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\obj\Debug\WebhookLogs.dll
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\obj\Debug\WebhookLogs.pdb
+C:\Users\Cristian\Desktop\scp\WebhookLogs\WebhookLogs\bin\Debug\Assembly-CSharp-Publicized-NAVIDAD.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\WebhookLogs.dll.config
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\WebhookLogs.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\WebhookLogs.pdb
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Assembly-CSharp-Publicized-NAVIDAD.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Unity.Timeline.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\System.Buffers.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\obj\Debug\WebhookLogs.csproj.AssemblyReference.cache
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\obj\Debug\WebhookLogs.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\obj\Debug\WebhookLogs.csproj.CopyComplete
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\obj\Debug\WebhookLogs.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\obj\Debug\WebhookLogs.pdb
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\CommandSystem.Core.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Exiled.API.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Exiled.CreditTags.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Exiled.CustomItems.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Exiled.CustomRoles.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Exiled.Events.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Exiled.Loader.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Exiled.Permissions.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Exiled.Updater.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\NorthwoodLib.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\PluginAPI.dll
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Exiled.API.xml
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Exiled.CreditTags.xml
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Exiled.CustomItems.xml
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Exiled.CustomRoles.xml
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Exiled.Events.xml
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Exiled.Loader.xml
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Exiled.Permissions.xml
+C:\Users\Cristian\Documents\Cosas scp\scp plugins\WebhookLogs\WebhookLogs\bin\Debug\Exiled.Updater.xml
